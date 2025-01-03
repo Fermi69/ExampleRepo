@@ -1,2 +1,2 @@
 # ExampleRepo
-ExampleRepository
+ExampleRepository to experiment around with git capabilities.
